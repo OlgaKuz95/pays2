@@ -1,11 +1,11 @@
 package  ru.netology
 
-fun main() {
+//fun main() {
 
-    val result = vkPay()
-    println(result)
+  //  val result = vkPay()
+   // println(result)
 
-}
+//}
 
 fun vkPay(
     transferMonth: Double = 0.0,
